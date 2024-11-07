@@ -1,0 +1,22 @@
+/* Optional Custom Styles */
+body {
+  font-family: Arial, sans-serif;
+}
+
+#bookList {
+  transition: opacity 0.3s ease-in-out;
+}
+
+#bookList img {
+  border-radius: 8px;
+}
+
+#bookList h3 {
+  font-size: 1.25rem;
+  font-weight: bold;
+}
+
+#bookList p {
+  font-size: 0.875rem;
+  color: #4b4b4b;
+}
