@@ -1,7 +1,7 @@
 # Book Finder App
 
 ## Overview
-Book Finder is a simple web application designed to help users search for books by title. The app uses the Open Library API to retrieve book details, including titles, authors, publication year, and book covers (if available). It is aimed at helping users quickly find information about books.
+Book Finder is a simple web application designed to help users search for books by title. The app uses the Open Library API to retrieve book details, including titles, authors, publication year, and book covers (if available). It is aimed at helping users quickly find information about books. 
 
 ## Features
 - Search for books by title.
