@@ -12,7 +12,6 @@ Book Finder is a simple web application designed to help users search for books 
 - **Frontend Framework:** React
 - **State Management:** React's `useState` and `useEffect`
 - **Styling:** Tailwind CSS
-- **API:** Open Library Search API
 
 ## Installation
 1. Clone the repository:
